@@ -1,0 +1,59 @@
+.container {
+  background: #f2f9f1;
+  width: 600px;
+  border: solid 1px;
+  padding: 20px 10px;
+  margin: 25px auto;
+  border: 1px solid #5c715e;
+  border-radius: 4px;
+  box-shadow: 5px 5px 10px #b6cdbd;
+  color: #5c715e;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 500px;
+}
+h2 {
+  font-size: xx-large;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.humidity-and-wind {
+  position: relative;
+  bottom: 60px;
+}
+.weather-description {
+  position: relative;
+  left: 290px;
+}
+.forecast {
+  color: #5c715e;
+  position: relative;
+  bottom: 20px;
+}
+
+.current-temperature {
+  margin-top: 30px;
+  font-size: 60px;
+  margin-right: -0px;
+}
+.forecast-icons {
+  font-size: 30px;
+  position: relative;
+  left: 20px;
+}
+button {
+  border: solid 1px;
+  border-radius: 2px;
+  box-shadow: 5px 5px 5px #b6cdbd;
+  transition: all 0.2s ease-in-out;
+}
+button:hover {
+  background-color: #b6cdbd;
+}
+.units {
+  margin-left: 95px;
+  margin-top: -24px;
+}
