@@ -57,3 +57,7 @@ button:hover {
   margin-left: 95px;
   margin-top: -24px;
 }
+
+p {
+  text-align: center;
+}
